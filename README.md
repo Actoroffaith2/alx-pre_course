@@ -1,2 +1,2 @@
 My first readme
-i must work to be a software engineer
+i must work hard to be a software engineer
